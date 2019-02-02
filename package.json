@@ -1,0 +1,12 @@
+{
+  "id": "bitbucket",
+  "name": "Bitbucket",
+  "version": "1.0.0",
+  "description": "Bitbcuket",
+  "main": "index.js",
+  "author": "Maximilian Leistner <max.leistner@qundg.de>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://bitbucket.org/[serviceURL]/"
+  }
+}
